@@ -1,6 +1,6 @@
 # Webox
 
-Webox is a web-based hypervisor platform that allows users to create and manage virtual machines directly from their browser. It offers customizable configurations including CPU, RAM, GPU, and storage — all backed by a powerful custom hypervisor backend and modern web technologies.
+Webox is a web-based hypervisor platform that allows users to create and manage virtual machines directly from their browser. It offers customizable configurations including CPU, RAM, GPU, and storage — all backed by a powerful custom hypervisor backend and modern web technologies. Or used by Azure.
 
 ---
 
@@ -77,4 +77,4 @@ This project is under development. License details coming soon.
 
 # Dedicated Supporters
 
-## 1. GPUMart
+## 1. Hopefully Azure
